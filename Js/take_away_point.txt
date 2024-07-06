@@ -1,0 +1,58 @@
+JavaScript
+    - Synchronous 
+    - single threaded 
+    - blocking language
+    - is a dynamic language because a variable can store different value in different point of time
+
+Data types: 
+     a. number : 1, 2, 34,34.34
+     b. boolean : true , false
+     c. string : enclosed by double quote ("  ") eg: "a", "b" , "c" , "abc@", "true"
+     d. undefined :
+        In JavaScript, undefined is considered a falsy value.
+        This means that when undefined is used in a context where a boolean value is expected (like an if statement or logical operation), it is treated as false.     
+
+Function: 
+    - by default function will return undefined value 
+    - 
+
+NAME CONVENTION: 
+    small letter  = ishemarried
+    camelcase =  ishemarried
+    pascalcase = ishemarried
+    kabab    =  is-he-married
+    snakecase = is_he_married
+    uppercase = IS_HE_MARRIED 
+    
+forEach doesnt provide any DATA 
+MAP KO OUTPUT ARRAY MA AAUXA 
+
+
+shortcut to copy:  alt+shift+down
+shortcut to change every same text at once: ctrl+d
+
+
+only number string can be converted to number
+"10" -> 10
+
+boolean
+    true -> 1
+    false -> 0
+    In boolean conversion, all empty are false. Either 0 in number or "" in string
+
+normally string text appears in white color and others in yellow -> with these available extension
+
+#companies 
+leapfrog 
+cotivity 
+f1shoft 
+dearhole
+hamro patro 
+cedargate
+infodeveloper 
+esignature
+varis 
+
+
+forEach doesnt produce data
+map ma input length and output length same
